@@ -7,6 +7,7 @@
 - Both VanillaJS & Various libraries & frameworks.
 - Some knowledge in the C/C++ langauge.
 - Some knowledge in the C# language.
+- Some knowledge in the Rust langauge.
 - Some knowledge about how to implement algorithms, their purpose & how they function.
 - Some experience using statistics & mathematics in correlation with software development.
 ```
@@ -16,4 +17,5 @@
 - Experience with writing unit-tests & general knowledge in TDD.
 - Experience with the VIM text-editor, BASH, ZSH & FISH.
 - Experience with UNIX systems.
+- Experience with domain driven design.
 ```
