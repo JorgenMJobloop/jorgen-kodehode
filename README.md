@@ -18,4 +18,5 @@
 - Experience with the VIM text-editor, BASH, ZSH & FISH.
 - Experience with UNIX systems.
 - Experience with domain driven design.
+- Experience with SQL, sqLite, mongoDB & postgreSQL.
 ```
